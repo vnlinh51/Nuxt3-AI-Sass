@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+full guide: https://www.youtube.com/watch?v=UPxId0g4QyI
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
